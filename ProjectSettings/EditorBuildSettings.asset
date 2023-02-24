@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 57b8b6dfb42ed7246af6347c7d5c4a05
+  - enabled: 1
+    path: Assets/Scenes/Rounds/0.unity
+    guid: 50908a3a5eb06f744a1085e5cc433743
+  - enabled: 1
+    path: Assets/Scenes/Rounds/1.unity
+    guid: e3da630f981504c47bfa78f0d76bb681
+  - enabled: 1
+    path: Assets/Scenes/Rounds/2.unity
+    guid: 85dcbc55047198f4193903aff7c72892
+  - enabled: 1
+    path: Assets/Scenes/Rounds/3.unity
+    guid: 4acd8cc77f4d7764caaa5fa4597b2620
+  - enabled: 1
+    path: Assets/Scenes/Rounds/4.unity
+    guid: bde161da18d84014ebe5fd8b2866c49d
+  - enabled: 1
+    path: Assets/Scenes/Rounds/5.unity
+    guid: 95ac457efff8e2d43a1c14819aba9604
+  - enabled: 1
+    path: Assets/Scenes/Rounds/6.unity
+    guid: 8fcc293b9090604478b4b3441002960e
+  - enabled: 1
+    path: Assets/Scenes/Rounds/7.unity
+    guid: 6be2c9a9a51ef804789eae8e232f7974
+  - enabled: 1
+    path: Assets/Scenes/Rounds/8.unity
+    guid: 90c2e6b631916bf4880403e0c8afb7cb
+  - enabled: 1
+    path: Assets/Scenes/Rounds/9.unity
+    guid: 8c3578461c03d1e4091c064fb782eb1e
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: 01d3a2f26ef66cd41978c8c26e53613f
+  m_configObjects: {}
